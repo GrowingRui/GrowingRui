@@ -21,6 +21,7 @@
 - Software Architecture
 - Software Development
 - Machine Learning
+- Vibe Coding
 
 
 ## 📊 GitHub Activity
@@ -34,6 +35,5 @@ Feel free to explore my repositories and connect with me.
 
 Always open to collaboration and new ideas 🚀
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xiarui091@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Xia_Rui_Dong-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xia-rui-dong-303048331/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GrowingRui)
