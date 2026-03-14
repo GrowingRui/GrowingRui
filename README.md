@@ -12,15 +12,18 @@
 ## 🚧 Current Projects
 
 - 🔹 **Playground**  
-  https://github.com/GrowingRui/brainstorming 
+  https://github.com/GrowingRui/brainstorming
 
+- 🔹 **NIE Reservation Detector**  
+  https://github.com/GrowingRui/nie-monitor
 
 ## 🛠 Interests
 
 - Artificial Intelligence
+- Machine Learning
+- Neural network
 - Software Architecture
 - Software Development
-- Machine Learning
 - Vibe Coding
 
 
