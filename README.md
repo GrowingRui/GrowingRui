@@ -17,6 +17,9 @@
 - 🔹 **NIE Reservation Detector**  
   https://github.com/GrowingRui/nie-monitor
 
+- 🔹 **Simple LinkedIn Rewriter**  
+  
+
 ## 🛠 Interests
 
 - Artificial Intelligence
