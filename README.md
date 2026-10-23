@@ -18,7 +18,7 @@
   https://github.com/GrowingRui/nie-monitor
 
 - 🔹 **Simple LinkedIn Rewriter**  
-  https://simplelinkedinrewriter.vercel.app/
+  https://github.com/GrowingRui/Simple-LinkedIn-Rewriter
 
 ## 🛠 Interests
 
