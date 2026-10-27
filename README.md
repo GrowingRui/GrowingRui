@@ -20,12 +20,13 @@
 - 🔹 **Simple LinkedIn Rewriter**  
   https://github.com/GrowingRui/Simple-LinkedIn-Rewriter
 
+- 🔹 **Schwarzer Peter**  
+  https://github.com/GrowingRui/SchwarzerPeter
+
 ## 🛠 Interests
 
 - Artificial Intelligence
 - Machine Learning
-- Neural network
-- Software Architecture
 - Software Development
 - Vibe Coding
 
