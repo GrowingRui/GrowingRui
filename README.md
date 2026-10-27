@@ -14,9 +14,6 @@
 - 🔹 **Playground**  
   https://github.com/GrowingRui/brainstorming
 
-- 🔹 **NIE Reservation Detector**  
-  https://github.com/GrowingRui/nie-monitor
-
 - 🔹 **Simple LinkedIn Rewriter**  
   https://github.com/GrowingRui/Simple-LinkedIn-Rewriter
 
