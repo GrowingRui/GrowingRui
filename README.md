@@ -11,9 +11,6 @@
 
 ## 🚧 Current Projects
 
-- 🔹 **Playground**  
-  https://github.com/GrowingRui/brainstorming
-
 - 🔹 **Simple LinkedIn Rewriter**  
   https://github.com/GrowingRui/Simple-LinkedIn-Rewriter
 
