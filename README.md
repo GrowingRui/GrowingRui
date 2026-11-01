@@ -17,6 +17,9 @@
 - 🔹 **Schwarzer Peter**  
   https://github.com/GrowingRui/SchwarzerPeter
 
+- 🔹 **Cozypaws**  
+  https://github.com/GrowingRui/Cozypaws
+
 ## 🛠 Interests
 
 - Artificial Intelligence
