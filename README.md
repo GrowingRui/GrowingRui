@@ -31,7 +31,6 @@
 - Artificial Intelligence
 - Machine Learning
 - Software Development
-- Vibe Coding
 
 
 ## 📊 GitHub Activity
