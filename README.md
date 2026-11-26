@@ -22,6 +22,7 @@
 - Artificial Intelligence
 - Machine Learning
 - Software Development
+- AI Agents
 
 
 ## 📊 GitHub Activity
