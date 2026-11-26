@@ -14,15 +14,6 @@
 - 🔹 **Simple LinkedIn Rewriter**  
   https://github.com/GrowingRui/Simple-LinkedIn-Rewriter
 
-- 🔹 **Schwarzer Peter**  
-  https://github.com/GrowingRui/SchwarzerPeter
-
-- 🔹 **Cozypaws**  
-  https://github.com/GrowingRui/Cozypaws
-
-- 🔹 **MarkFlow**  
-  https://github.com/GrowingRui/MarkFlow
-
 - 🔹 **Mempo**  
   https://github.com/GrowingRui/Mempo
 
